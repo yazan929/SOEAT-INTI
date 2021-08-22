@@ -1,0 +1,70 @@
+body {
+	background-color: #fff;
+	font-family: 'Open Sans';
+	font-size: 13px;
+}
+
+#menu {
+	background-color: #fff;	
+	background-image: url(images/logo.png);
+	background-repeat: no-repeat;
+	font-size: 15px;
+	font-weight: normal;
+	letter-spacing: 2.5px;
+	color: #fff;
+	margin-left: 20%;
+	margin-right: 20%;
+	padding-left: 2%;
+	padding-right: 2%;
+	padding-top: 110px;
+	padding-bottom: 10px;
+}
+
+#menu a:link {
+	color: #838383;
+	text-decoration: none;
+}
+
+#menu a:hover {
+	color: #000;
+	font-weight: 900;
+	font-style: bold;
+	text-shadow: 2px 5px 3px #838383;
+}
+
+#menu a:visited {
+	color: #000;
+	text-decoration: none;
+	
+}
+
+#wrapper { 
+	background-color: #fff; 
+	width: 60%;
+	margin: auto;
+	margin-top: 15px;
+	margin-bottom: 20px;
+	min-height: 810px;
+}
+
+h1 {
+	font-family: Georgia;
+	font-style: italic;
+	font-size: 40px;
+	letter-spacing: 3px;
+	padding-bottom: 10px;
+}
+
+h2 {
+	font-size: 25px;
+	padding: 13px 0px 8px;
+	border-bottom: 1px solid;
+	color: #000;
+	letter-spacing: 2px;
+	text-align: left;
+}
+
+img.gallery {
+	width: 47%;
+	padding: 10px;
+}
